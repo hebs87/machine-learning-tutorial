@@ -1,0 +1,9 @@
+venv/
+/.idea/$CACHE_FILE$
+/.idea/.gitignore
+/.idea/machine-learning-tutorial.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
